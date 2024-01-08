@@ -1,11 +1,11 @@
 # Introduction
 
 
-This is a repository created by *Max Laugen*
+This is a repository created by _*Max Laugen*_
 
 ## Usage
 
-### Usage
+
 
 
 Run this command to execute the application:
